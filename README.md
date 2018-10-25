@@ -4,6 +4,11 @@ Collects package metrics (SLOC) in Pharo Smalltalk >= 6.1
 
 # Screenshots
 
+![Sorted comparison of packages in Pharo 6.1](https://user-images.githubusercontent.com/4825959/47520316-3d35cd00-d866-11e8-8091-bd758904290d.png)
+
+![Comparison of packages in Pharo 6.1](https://user-images.githubusercontent.com/4825959/47520326-46269e80-d866-11e8-92fd-9311ffdc3288.png)
+
+
 # Details
 
 This is a [port from SqueakSource code](http://www.squeaksource.com/DesignInfo.html) to Pharo >= 6.1
